@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Emily 👋
 
-<!--
-**emtran912/emtran912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst transitioning into **Data Engineering** | Azure | PySpark | SQL
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Azure](https://img.shields.io/badge/Azure-Data_Factory-blue)
+![Databricks](https://img.shields.io/badge/Databricks-PySpark-orange)
+![Power BI](https://img.shields.io/badge/Power_BI-Analytics-yellow)
+![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔷 [Azure End-to-End Data Engineering Pipeline](https://github.com/emtran912/Azure-End-to-end-Data-Engineering-Project)
+- 📊 [Power BI Campaign Analytics](https://github.com/emtran912/powerbi-campaign-analytics)
+- 🗓️ [Calendar Report Chrome Extension](https://github.com/emtran912/Calendar-Report-Extension)
+
+## 🔗 Links
+- 🌐 [emilysdiscoveries.com](https://emilysdiscoveries.com)
+- 💼 [LinkedIn](https://linkedin.com/in/em-tran)
