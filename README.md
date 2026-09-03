@@ -10,7 +10,7 @@ Data Analyst transitioning into **Data Engineering** | Azure | PySpark | Python 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey)
 
 ## 📌 Featured Projects
-- 🎓 [UK Graduate Salary ETL Pipeline](https://github.com/emtran912/uk-he-salary-etl) - HESA graduate outcomes data pipeline with pandas, SQLite, pytest
+- 🎓 [UK Graduate Salary ETL Pipeline](https://github.com/emtran912/uk-he-salary-etl)
 - 🔷 [Azure End-to-End Data Engineering Pipeline](https://github.com/emtran912/Azure-End-to-end-Data-Engineering-Project)
 - 📊 [Power BI Campaign Analytics](https://github.com/emtran912/powerbi-campaign-analytics)
 - 🗓️ [Calendar Report Chrome Extension](https://github.com/emtran912/Calendar-Report-Extension)
