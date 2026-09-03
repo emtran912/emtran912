@@ -1,6 +1,6 @@
 # Hi, I'm Emily 👋
 
-Data Analyst transitioning into **Data Engineering** | Azure | PySpark | SQL
+Data Analyst transitioning into **Data Engineering** | Azure | PySpark | Python | SQL
 
 ## 🛠️ Tech Stack
 ![Azure](https://img.shields.io/badge/Azure-Data_Factory-blue)
